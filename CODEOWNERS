@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @pkdiv
+/src/backend/database.py      @pkdiv
+/src/backend/routers/auth.py  @pkdiv
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @pkdiv
